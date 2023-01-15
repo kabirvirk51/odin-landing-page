@@ -1,1 +1,1 @@
-# odin-landing-pageThis is the second project I am completing in the Odin Project foundations course. This project summarizes everthing I have learned upto this point, such as HTML, basic CSS and FlexBox. Thanks for following my journey!
+This is the second project I am completing in the Odin Project foundations course. This project summarizes everthing I have learned upto this point, such as HTML, basic CSS and FlexBox. Thanks for following my journey!
