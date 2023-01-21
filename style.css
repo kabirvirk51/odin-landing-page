@@ -1,7 +1,7 @@
 body {
 
-    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-    font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+font-family: 'Roboto', sans-serif;
 
 }
 
@@ -14,24 +14,20 @@ align-items: center;
 
 }
 
-
 a {
 
-    text-decoration: none;
-    font-size: 18px;
-    color: #e5e7eb
+text-decoration: none;
+font-size: 18px;
+color: #e5e7eb
    
-    
-
 }
 
 ul {
 
-    list-style-type: none;
-    display: flex;
-    gap: 16px;
+list-style-type: none;
+display: flex;
+gap: 16px;
     
-
 }
 
 .logo {
@@ -41,5 +37,50 @@ color: #f9f8fa
 
 }
 
+.hero {
 
+background-color: #1F2937;
+display: flex;
+justify-content: space-evenly;
+padding-top: 75px
+
+
+}
+
+.hero-main {
+
+font-size: 48px;
+font-weight: bold;
+color: #f9f8fa;
+margin-bottom: 8px;
+
+}
     
+
+.hero-secondary {
+
+
+font-size: 18px;
+color: #e5e7eb;  
+margin-bottom: 8px; 
+
+
+}
+
+button {
+
+background-color: blue;
+border: none;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+font-weight: bold;
+}
+
+img {
+
+display: flex;
+
+}
