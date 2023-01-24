@@ -12,7 +12,15 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 
+
 }
+
+.hero-image {
+
+padding-bottom: 100px;
+
+}
+
 
 a {
 
@@ -41,8 +49,10 @@ color: #f9f8fa
 
 background-color: #1F2937;
 display: flex;
-justify-content: space-evenly;
-padding-top: 75px
+justify-content: space-around;
+padding-top: 75px;
+padding-left: 23rem;
+padding-right: 23rem;
 
 
 }
@@ -77,6 +87,7 @@ text-align: center;
 text-decoration: none;
 font-size: 16px;
 font-weight: bold;
+border-radius: 12px;
 }
 
 img {
@@ -84,3 +95,4 @@ img {
 display: flex;
 
 }
+
