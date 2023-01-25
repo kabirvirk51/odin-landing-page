@@ -116,6 +116,7 @@ text-align: center;
 gap: 100px;
 padding-top: 50px;
 background-color: antiquewhite;
+padding-bottom: 75px;
 
 }
 
@@ -123,6 +124,33 @@ background-color: antiquewhite;
 
 max-width: 200px;
 
+}
 
+.quote-section {
+
+background-color: #E5E7EB;
+padding: 8rem;
+
+}
+
+.main-quote {
+
+font-size: 36px;
+color: #1F2937;
+font-style: italic;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.quote-secondary {
+
+font-weight: bold;
+font-size: 12;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+padding-top: 9px;
 
 }
