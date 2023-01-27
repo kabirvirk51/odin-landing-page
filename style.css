@@ -155,3 +155,41 @@ padding-top: 9px;
 
 }
 
+.call-to-action {
+
+text-align: center;
+padding: 3rem;
+background-color: #3882f6;
+color: white;
+display: flex;
+flex-direction: row;
+gap: 16rem;
+justify-content: space-evenly;
+
+
+}
+
+.button-title {
+
+margin-right: 15rem;
+font-weight: bold;
+font-size: larger;
+
+}
+
+.right-button {
+
+background-color: #3882f6;
+border: solid;
+
+}
+
+.button-section {
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5rem;
+
+}
